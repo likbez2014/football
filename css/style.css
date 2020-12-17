@@ -102,8 +102,9 @@ a {
 }
 
 .contact a {
+    margin-bottom: 10px;
     text-decoration: none;
-    color: #39930d; 
+    color: #39930d;
 }
 
 .contact i {
